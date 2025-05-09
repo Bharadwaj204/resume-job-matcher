@@ -1,0 +1,16 @@
+We are looking for a skilled Frontend Developer to join our team.
+
+Responsibilities:
+- Develop new user-facing features using React.js
+- Build reusable components and front-end libraries
+- Translate designs and wireframes into high quality code
+
+Requirements:
+- Proficient in JavaScript, HTML, CSS
+- Strong knowledge of React.js and its core principles
+- Familiarity with RESTful APIs
+- Experience with Redux and modern front-end tools like Webpack
+
+Preferred Skills:
+- Knowledge of TypeScript, Git, and responsive design
+- Understanding of testing frameworks like Jest or Mocha

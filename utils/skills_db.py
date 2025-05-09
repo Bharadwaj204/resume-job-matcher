@@ -1,0 +1,22 @@
+SKILLS_DB = {
+    'python': ['python', 'python3', 'python programming'],
+    'java': ['java', 'java programming', 'core java'],
+    'javascript': ['javascript', 'js', 'ecmascript'],
+    'sql': ['sql', 'mysql', 'postgresql', 'database'],
+    'html': ['html', 'html5'],
+    'css': ['css', 'css3'],
+    'react': ['react', 'reactjs', 'react.js'],
+    'node': ['node', 'nodejs', 'node.js'],
+    'aws': ['aws', 'amazon web services'],
+    'docker': ['docker', 'containerization'],
+    'git': ['git', 'github', 'gitlab'],
+    'machine learning': ['ml', 'machine learning', 'ai'],
+    'data analysis': ['data analysis', 'data analytics'],
+    'excel': ['excel', 'microsoft excel'],
+    'powerpoint': ['powerpoint', 'ppt', 'presentation'],
+    'word': ['word', 'microsoft word'],
+    'communication': ['communication', 'communication skills'],
+    'leadership': ['leadership', 'team lead', 'team management'],
+    'project management': ['project management', 'agile', 'scrum'],
+    'problem solving': ['problem solving', 'analytical skills']
+} 

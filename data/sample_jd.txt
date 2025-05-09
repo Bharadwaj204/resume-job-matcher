@@ -1,0 +1,25 @@
+Job Title: Front-End Web Developer
+
+We are looking for a talented Front-End Web Developer to create responsive, user-friendly web applications.
+
+Responsibilities:
+- Convert UI/UX designs into functional web pages using HTML, CSS, and JavaScript
+- Work closely with designers and backend developers to implement interactive features
+- Optimize applications for maximum speed and scalability
+- Ensure the technical feasibility of UI/UX designs
+- Debug and resolve technical issues
+
+Requirements:
+- Proficiency in HTML, CSS, and JavaScript (ES6+)
+- Experience with front-end frameworks like React.js or Angular
+- Strong understanding of cross-browser compatibility and responsive design
+- Familiarity with RESTful APIs and version control (Git)
+- Knowledge of build tools like Webpack, Babel, or Gulp
+
+Preferred:
+- Knowledge of testing frameworks (Jest, Mocha)
+- Basic understanding of backend technologies like Node.js or Express
+
+Qualifications:
+- Bachelor’s degree in Computer Science, Design, or related field
+- 1+ years of front-end development experience

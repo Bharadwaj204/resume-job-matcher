@@ -1,0 +1,16 @@
+We are looking for a Cloud Engineer to manage infrastructure and deployments.
+
+Responsibilities:
+- Maintain and automate cloud infrastructure
+- Manage CI/CD pipelines
+- Ensure availability and scalability
+
+Requirements:
+- Experience with AWS (EC2, S3, Lambda, CloudWatch)
+- Knowledge of Docker and Kubernetes
+- Familiar with Terraform or Ansible
+- Scripting with Python or Bash
+
+Preferred:
+- Cloud certifications (AWS, Azure)
+- Monitoring tools like Prometheus, Grafana

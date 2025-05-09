@@ -1,0 +1,15 @@
+We are hiring a Full Stack Software Developer to work on scalable web applications.
+
+Responsibilities:
+- Develop backend APIs and frontend interfaces
+- Work with databases and authentication systems
+- Collaborate with cross-functional teams
+
+Requirements:
+- Proficient in Python and JavaScript
+- Experience with Django or Flask
+- Hands-on with React or Angular
+- Familiarity with PostgreSQL or MongoDB
+
+Bonus:
+- DevOps basics, CI/CD, Docker

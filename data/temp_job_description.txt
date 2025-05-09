@@ -1,0 +1,17 @@
+We are seeking a Machine Learning Engineer to design and deploy ML models in production.
+
+Responsibilities:
+- Build and optimize ML models using Python
+- Work with TensorFlow, Scikit-learn, or PyTorch
+- Handle large datasets using Pandas and NumPy
+- Deploy models using Docker or cloud services
+
+Requirements:
+- Strong Python programming skills
+- Experience with machine learning frameworks (e.g., TensorFlow, PyTorch)
+- Familiarity with data processing libraries
+- Knowledge of cloud platforms (AWS/GCP)
+
+Preferred:
+- Understanding of MLOps practices and pipelines
+- Experience in NLP or Computer Vision
