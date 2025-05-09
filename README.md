@@ -1,9 +1,5 @@
 # 💼 Resume Analyzer & Job Matcher
 
-[![GitHub stars](https://img.shields.io/github/stars/Bharadwaj204/resume-job-matcher?style=social)](https://github.com/Bharadwaj204/resume-job-matcher/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/Bharadwaj204/resume-job-matcher?style=social)](https://github.com/Bharadwaj204/resume-job-matcher/network/members)
-[![GitHub issues](https://img.shields.io/github/issues/Bharadwaj204/resume-job-matcher)](https://github.com/Bharadwaj204/resume-job-matcher/issues)
-[![GitHub license](https://img.shields.io/github/license/Bharadwaj204/resume-job-matcher)](https://github.com/Bharadwaj204/resume-job-matcher/blob/main/LICENSE)
 
 ## 📌 Project Overview
 This project is an intelligent resume analysis and job matching tool that helps both job seekers and recruiters. It uses Natural Language Processing (NLP) and machine learning techniques to analyze resumes and match them with job descriptions, providing detailed feedback and match scores.
@@ -102,18 +98,6 @@ The system provides:
   - 🟡 Yellow: Moderate match (50-70%)
   - 🔴 Red: Low match (<50%)
 
-## 🔧 Configuration
-The system can be configured through:
-- `config.py`: Main configuration file
-- `skills_db.py`: Skills database and normalization rules
-- `nlp_utils.py`: NLP processing parameters
-
-## 🧪 Testing
-Run tests using:
-```bash
-python -m pytest tests/
-```
-
 ## 📈 Future Improvements
 1. Support for more file formats (DOCX, RTF)
 2. Enhanced skill detection
@@ -122,13 +106,6 @@ python -m pytest tests/
 5. Batch processing capability
 6. API integration options
 7. Advanced analytics dashboard
-
-## 🤝 Contributing
-1. Fork the repository
-2. Create a feature branch
-3. Commit your changes
-4. Push to the branch
-5. Create a Pull Request
 
 ## 📝 License
 This project is licensed under the MIT License - see the LICENSE file for details
@@ -147,8 +124,3 @@ For support, please:
 1. Check the documentation
 2. Open an issue
 3. Contact the maintainers
-
-## 🔄 Updates
-- Latest version: 1.0.0
-- Last updated: March 2024
-- Changelog available in [CHANGELOG.md](CHANGELOG.md)
