@@ -46,7 +46,10 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 ```bash
 pip install -r requirements.txt
 ```
-
+4. **Running the Project**
+ ```bash
+   python train_vectorizer.py
+```
 ## 💻 Usage
 
 1. **Start the application**
