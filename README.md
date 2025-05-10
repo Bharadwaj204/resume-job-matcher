@@ -1,5 +1,8 @@
 # 💼 Resume Analyzer & Job Matcher
 
+## 🌐 Live Demo
+
+Check out the live application here: [Resume Job Matcher](https://resume-job-matcher.streamlit.app/)
 
 ## 📌 Project Overview
 This project is an intelligent resume analysis and job matching tool that helps both job seekers and recruiters. It uses Natural Language Processing (NLP) and machine learning techniques to analyze resumes and match them with job descriptions, providing detailed feedback and match scores.
